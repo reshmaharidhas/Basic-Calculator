@@ -1,4 +1,9 @@
 # Basic-Calculator
+<p align="center">
+  <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Freshmaharidhas%2FBasic-Calculator">
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Freshmaharidhas%2FBasic-Calculator&label=Visitors&labelColor=%23000000&countColor=%2300ff00&style=flat" />
+  </a>
+</p><br>
 Python desktop application 'Calculator' to calculate mathematical expression
 
 Built using Tkinter
