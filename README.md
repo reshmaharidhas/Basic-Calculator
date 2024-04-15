@@ -6,7 +6,10 @@
   <img src="https://img.shields.io/github/repo-size/reshmaharidhas/Basic-Calculator">
   <img src="https://img.shields.io/github/v/release/reshmaharidhas/Basic-Calculator">
 
-</p><br>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/github/created-at/reshmaharidhas/Basic-Calculator?color=%230b33e3"/>
+</p>
 Python desktop application 'Calculator' to calculate mathematical expression
 
 Built using Tkinter
