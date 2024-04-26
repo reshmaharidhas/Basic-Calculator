@@ -14,11 +14,15 @@ Python desktop application 'Calculator' to calculate mathematical expression
 
 Built using Tkinter
 
-### Programming language
-- Python
+### Programming language 💻
+- Python 3
+
+### Tech Stack 💻
+- Tkinter
 
 ### Development Tools 💻
 - PyCharm
+- PyInstaller
 
 ## Features 🔆
 - User friendly interface
@@ -38,4 +42,4 @@ Built using Tkinter
 For bugs, questions and discussions, please use the <a href="https://github.com/reshmaharidhas/Basic-Calculator/issues">GitHub issues</a>
 
 ## License
-This project is licensed under the MIT License..
+This project is licensed under the MIT License
